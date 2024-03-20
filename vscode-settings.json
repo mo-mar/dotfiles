@@ -1,0 +1,20 @@
+{
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "editor.fontSize": 14,
+  "editor.snippetSuggestions": "top",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.renderWhitespace": "all",
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.linkedEditing": true,
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "json.schemas": [],
+  "editor.tabSize": 2,
+  "workbench.iconTheme": "eq-material-theme-icons-light",
+  "editor.fontFamily": "Fira Code",
+  "editor.guides.bracketPairs": "active",
+  "editor.fontLigatures": true
+}
